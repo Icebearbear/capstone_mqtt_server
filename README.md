@@ -1,5 +1,8 @@
 # capstone_mqtt_server
 
+github token
+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
+
 go to root 
 su root
 
